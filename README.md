@@ -51,7 +51,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 I would like to express my gratitude to [CodeClause](https://www.codeclause.com/) for providing the opportunity to work on this exciting Data Science Internship project.
-
----
-
-Feel free to customize this README template to include specific instructions, project details, and acknowledgments relevant to your project. It will serve as a valuable resource for users and collaborators who visit your repository.
